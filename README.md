@@ -2,13 +2,11 @@
 
 ### Developer and innovator
 
----
 
 ## My stats (including private repos)
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Beatzoid&count_private=true&show_icons=true&theme=radical)
 
----
 
 # Top languages
 
