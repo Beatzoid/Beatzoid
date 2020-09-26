@@ -20,5 +20,5 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#261](https://github.com//anthonyjgrove/react-google-login/issues/261) in [anthonyjgrove/react-google-login](https://github.com//anthonyjgrove/react-google-login)
+1. 🗣 Commented on [#261](https://github.com/anthonyjgrove/react-google-login/issues/261) in [anthonyjgrove/react-google-login](https://github.com/anthonyjgrove/react-google-login)
  <!--END_SECTION:activity-->
