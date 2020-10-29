@@ -20,5 +20,5 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/Beatzoid/netflix-clone/pull/17) in [Beatzoid/netflix-clone](https://github.com/Beatzoid/netflix-clone)
+1. 🗣 Commented on [#19](https://github.com/Beatzoid/netflix-clone/issues/19) in [Beatzoid/netflix-clone](https://github.com/Beatzoid/netflix-clone)
  <!--END_SECTION:activity-->
