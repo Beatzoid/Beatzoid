@@ -1,6 +1,6 @@
 # Hi. I am Beatzoid
 
-### Developer and innovator
+### Developer and Innovator
 
 ---
 
