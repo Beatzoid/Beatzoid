@@ -12,12 +12,6 @@ Here are all cards with themes.
 
 
 ```
-[![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/default/0-profile-details.svg)
-
-
-```
 [![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/default/1-repos-per-language.svg)
@@ -30,12 +24,6 @@ Here are all cards with themes.
 
 
 ### solarized
-
-
-```
-[![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
 
 ```
@@ -54,12 +42,6 @@ Here are all cards with themes.
 
 
 ```
-[![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
-
-
-```
 [![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
@@ -72,12 +54,6 @@ Here are all cards with themes.
 
 
 ### vue
-
-
-```
-[![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/vue/0-profile-details.svg)
 
 
 ```
@@ -96,12 +72,6 @@ Here are all cards with themes.
 
 
 ```
-[![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/dracula/0-profile-details.svg)
-
-
-```
 [![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
@@ -114,12 +84,6 @@ Here are all cards with themes.
 
 
 ### monokai
-
-
-```
-[![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/monokai/0-profile-details.svg)
 
 
 ```
@@ -138,12 +102,6 @@ Here are all cards with themes.
 
 
 ```
-[![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
-
-
-```
 [![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
@@ -159,12 +117,6 @@ Here are all cards with themes.
 
 
 ```
-[![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
-
-
-```
 [![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
@@ -177,12 +129,6 @@ Here are all cards with themes.
 
 
 ### github
-
-
-```
-[![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/Beatzoid/Beatzoid/master/profile-summary-card-output/github/0-profile-details.svg)
 
 
 ```
