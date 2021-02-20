@@ -1,4 +1,4 @@
-# Hi. I am Beatzoid
+# Hi, I'm Beatzoid
 
 ### Developer and Innovator
 
